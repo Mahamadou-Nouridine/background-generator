@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background: linear-gradient(to right,#da4c4c, rgb(23, 98, 250));
+}
